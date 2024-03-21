@@ -1,6 +1,6 @@
 # whatsapp_ui
 
-A new Flutter project.
+Just Created a Whatsapp UI in Flutter
 
 ## Getting Started
 
